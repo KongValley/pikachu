@@ -3,7 +3,7 @@
  * @Author: Chara
  * @Date: 2019-05-20
  * @LastEditors: Chara
- * @LastEditTime: 2019-08-09 13:03:00
+ * @LastEditTime: 2019-08-09 13:12:02
  * @Description: 
  */
 !function(){
@@ -45,7 +45,7 @@
     /*
     * 首先，需要准备皮卡丘的画板
     */
-   .preview {
+    .preview {
       height: 100%;
       display: flex;
       justify-content: center;
@@ -162,7 +162,7 @@
       border-left: none;
       border-bottom-right-radius: 100px 60px;
       transform: rotate(20deg) translateZ(0);
-      left: 50%;
+      left: 50.15%;
     }
     /*
       * 下嘴唇
